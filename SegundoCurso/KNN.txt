@@ -1,0 +1,2 @@
+KNN - Baseada nos vizinhos mais próximos
+k = Número de vizinhos mais próximos

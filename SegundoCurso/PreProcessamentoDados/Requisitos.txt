@@ -1,0 +1,7 @@
+Requisitos para scikit-learn
+Dados numéricos
+Sem dados ausentes
+
+Nem sempre será assim, necessário pré-processar
+Não aceita dados não numéricos
+Converter para numéricos

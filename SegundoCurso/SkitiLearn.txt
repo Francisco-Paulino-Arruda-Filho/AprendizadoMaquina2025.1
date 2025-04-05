@@ -1,0 +1,10 @@
+Aprendizado supervisionado: Previsão
+
+Classificação: Valores binários, discretos
+Regressão: Valores contínuos
+
+Modelos de Classificação
+1. Cria o Modelos
+2. Treina o Modelo -> Rotulados
+3. Testa o modelo -> Não Rotulados
+4. Checa a saída

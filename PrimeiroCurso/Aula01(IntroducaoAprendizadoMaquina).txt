@@ -1,0 +1,34 @@
+Aprendizado de máquina - Não vale a pena usar para qualquer coisa, tempo, dados e simples.
+
+Fillshot - Poucos exemplos para criar modelo
+Sem modelo dados não é possível treinar modelos, pode ser completado com exemplos(contexto e exemplos)
+
+Não requer programação explícita
+
+Tarefa - Quer resolver
+Experiencia - Dado usado
+Desempenho - métrica, qualidade da resposta
+
+Modelo offline - Treina com tudo de uma vez, desempenho offline
+Modelo online - Iterativo, estação meteorológica, dados novos
+
+Descobrir padrões usando técnicas
+
+A inteligência artificial explicável (XAI) é um conjunto de processos e métodos que permite aos usuários humanos compreender e confiar nos resultados e saídas criados por algoritmos de aprendizado de máquina
+
+Fine-Tune: Usar modelo para treinar outros, reduzir parâmetros e melhorar desempenho
+
+Rotulo categórico - Classificação
+Regressão - Infinitos valores contínuos e não discretos, várias saídas.
+Não são necessariamente excludentes
+Regressão logística - Classificação
+
+Dados rotulados - Empresas, especialistas
+Não supervisionado, supervisionado, semi-supervisionado(clusterização), alguns rotulados
+
+KNN(aprendizado baseado em instâncias - Compara instâncias próximas
+
+Aprendizado por reforços - Regras, unição, recompensa
+
+Clusterização - Similaridade
+

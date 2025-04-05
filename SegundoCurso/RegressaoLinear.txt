@@ -1,0 +1,24 @@
+Regressão linear em duas dimensões
+
+y = ax + b
+y = Alvo
+a, b = Parâmetros/coefientes do modelo
+x = Recurso, única feature
+
+a, b são definidos por por funções de erro
+
+Distância: Resíduos, diferença entre positivos e negativos
+
+Mínimos quadrados ordinario
+
+RSS = somatorio_1^n(y_1 - y_2)^2
+
+Múltiplas dimensões
+y = a_1x_1 + a_1x_2 + b
+
+R-Squared
+R^2 = Valores variam de 0 a 1 quantificam a variância nos valores
+
+MSE = 1/n somatorio_1^n(y_1 - ^y_1)^2   
+
+RMSE = raiz(1/n somatorio_1^n(y_1 - ^y_1)^2  )

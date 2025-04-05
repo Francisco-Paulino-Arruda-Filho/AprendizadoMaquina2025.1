@@ -1,0 +1,5 @@
+Por que regularizar?
+
+Regressão de Redge
+Função de perda = Função de OLS + ALPHA*somatorio_i=1^n a_i^2
+ALPHA = parametros que precisamos escolher, hiperparametros usados para selecionar parametros de modelo

@@ -1,0 +1,13 @@
+
+Melhora de desempenho
+
+Redução de dimensionalidade: Reduzir o número de recursos
+- Informaões inúteis -> Número de copos de água bebidos um dia antes
+- Correlacionadas: Pessoas alta -> Pé grande
+- Ajuste de hiperparâmetros: Genêro(Conjunto de dados), hiperparâmetros(instrumentos). Encontrar valores ideias, 
+sem necessariamente usar combinações aleatórias.
+
+Métodos de conjunto:
+
+- Classificação: Desempate, qual valor mais se repetiu
+- Regressão: Média de valores

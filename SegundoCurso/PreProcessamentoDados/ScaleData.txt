@@ -1,0 +1,5 @@
+Scale data
+
+Padronização -> Dividir pela variância, recursos centralizados ao redor de zero
+Variem de -1 a 1 
+Subtrair do minimo e dividir pelo intervalo

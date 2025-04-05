@@ -1,0 +1,22 @@
+Ridge/Larsson = Escoljha um alpha
+KNN = Escolha de um n_neighbors
+
+Aqui está a tradução do texto na imagem:
+
+    1.Teste vários valores diferentes de hiperparâmetros
+
+    2.Ajuste cada um deles separadamente
+
+    3.Veja o desempenho de cada um
+
+    4.Escolha os valores com melhor desempenho
+
+Aqui está a tradução do texto na imagem:
+
+    Isso é chamado de ajuste de hiperparâmetros
+
+    É essencial usar validação cruzada para evitar overfitting ao conjunto de teste
+
+    Ainda podemos dividir os dados e realizar validação cruzada no conjunto de treinamento
+
+    Retemos o conjunto de teste para a avaliação final

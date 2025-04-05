@@ -1,0 +1,21 @@
+RedesNeurais: Usados para problemas mais complexos que um problema que ML normal poderia resolver, imita a rede humana.
+Algoritmo de rede neural: Requer mais dados. 
+Neuronio = Nó
+Cada Neuronio processa uma Informação
+Relacionar os dados com a saída esperada
+Aprendizado profundo -> Muitas camadas
+Preferível com uma quantidade maior de dados
+
+Aplicações: 
+
+Imagens: Principalmente Imagens coloridas que demandam 3 vezes mais dados que, por causa do RGB, cada neuronio processa um pixel, pode servir 
+para identificar partes dos objetos e consequentemente eles como um todo, com base em partes como olhos, nariz e boca - Rostos, tumores, veículos
+Texto
+
+Natural Language Processing(Processamento de linguagem natural): Capacidade da máquina de entender linguagem humana, identificar entidades,
+identificar palavras importantes
+
+Contagem de palavras: Não identifica sinonimos
+
+Limites do Aprendizado de máquina:
+Qualidade dos dados

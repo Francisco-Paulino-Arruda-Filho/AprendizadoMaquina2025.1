@@ -1,0 +1,22 @@
+Aqui está a tradução do texto:
+Diferentes modelos para diferentes problemas
+Alguns princípios orientadores
+
+    Tamanho do conjunto de dados
+
+        Menos variáveis = modelo mais simples, tempo de treinamento mais rápido
+
+        Alguns modelos exigem grandes quantidades de dados para ter um bom desempenho
+
+    Interpretabilidade
+
+        Alguns modelos são mais fáceis de explicar, o que pode ser importante para as partes interessadas
+
+        A regressão linear tem alta interpretabilidade, pois podemos entender os coeficientes
+
+    Flexibilidade
+
+        Pode melhorar a precisão ao fazer menos suposições sobre os dados
+
+        O KNN é um modelo mais flexível, pois não assume nenhuma relação linear
+
