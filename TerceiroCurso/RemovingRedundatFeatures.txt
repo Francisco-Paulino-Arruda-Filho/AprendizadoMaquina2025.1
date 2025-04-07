@@ -1,0 +1,10 @@
+
+Remover recursos errados
+Remover recursos relacionados
+Remover dados duplicados
+
+Características correlacionadas
+
+    Estatisticamente correlacionadas: características se movem juntas direcionalmente
+    Modelos lineares assumem independência das características
+    Coeficiente da corralação de Pearson

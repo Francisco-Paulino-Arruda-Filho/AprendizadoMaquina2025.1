@@ -1,0 +1,13 @@
+Redução de dimensionalidade e PCA
+
+    Método de aprendizado não supervisionado
+
+    Combina/decompõe um espaço de características
+
+    Extração de características – aqui vamos usar para reduzir nosso espaço de características
+
+    Análise de Componentes Principais (PCA)
+
+    Transformação linear para um espaço não correlacionado
+
+    Captura o máximo possível de variância em cada componente

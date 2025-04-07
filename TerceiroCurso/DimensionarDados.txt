@@ -1,0 +1,8 @@
+Quando dimensionar os dados?
+
+Quandos os dados estão:
+
+Em diferentes escalas
+Modelo de escala linear
+Deixar a média 0 e deixar invariância 1
+Facilitar comparação

@@ -1,0 +1,7 @@
+Pre-processamento de dados
+
+Exige dados numéricos
+
+Deixar no modelo desejado para a modelagem
+Melhorar o desempenho
+Gerar resultados mais confiáveis

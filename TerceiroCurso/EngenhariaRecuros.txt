@@ -1,0 +1,4 @@
+Engenharia de recursos: Criação de novos recursos com o uso de antigos
+
+Melhora performance: Previsão, agrupamento
+Melhora relações entre recursos

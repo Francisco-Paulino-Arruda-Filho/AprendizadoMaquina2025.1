@@ -1,0 +1,1 @@
+df["C"] = df["C"].astype("int")

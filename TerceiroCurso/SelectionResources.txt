@@ -1,0 +1,5 @@
+Seleção de recursos:
+
+Selecionar features para usar no modelo
+Melhorar o desempenho do modelo
+Não criar novas features

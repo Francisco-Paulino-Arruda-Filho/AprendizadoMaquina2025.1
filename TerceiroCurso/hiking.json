@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Trilha da Pedra Grande",
+      "location": "Atibaia, SP",
+      "difficulty": "Moderada",
+      "distance_km": 9.0,
+      "elevation_gain_m": 650
+    },
+    {
+      "name": "Pico do Jaraguá",
+      "location": "São Paulo, SP",
+      "difficulty": "Fácil",
+      "distance_km": 3.6,
+      "elevation_gain_m": 200
+    },
+    {
+      "name": "Trilha do Ouro",
+      "location": "Paraty, RJ",
+      "difficulty": "Difícil",
+      "distance_km": 35.0,
+      "elevation_gain_m": 1200
+    },
+    {
+      "name": "Pedra do Baú",
+      "location": "São Bento do Sapucaí, SP",
+      "difficulty": "Difícil",
+      "distance_km": 8.4,
+      "elevation_gain_m": 950
+    },
+    {
+      "name": "Trilha da Janela do Céu",
+      "location": "Ibitipoca, MG",
+      "difficulty": "Moderada",
+      "distance_km": 18.0,
+      "elevation_gain_m": 700
+    }
+  ]
+  
