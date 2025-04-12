@@ -1,0 +1,10 @@
+Label -> Rótulo(Classes -> Classificação(Valores discretos) ou regressão -> Valor contínuo)
+Target -> Pode ser vários valores, colunas que tem os labels
+Reconhecimento de entidade numeradas(PLN ou NER)
+
+Conjunto de dados balanceado - Cada classe tem a mesma quantidade de dados
+
+X = Recebe as features(Valores numéricos)
+y = Recebe os rótulos
+
+Tarefa auto-regressiva - Prevê o próximo token

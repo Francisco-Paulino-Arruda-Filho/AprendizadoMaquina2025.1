@@ -1,0 +1,2 @@
+KNN - Classificação(N vizinhos mais próximos)
+Regressão linear - Regressão(Traçar linha que passa pelos pontos)

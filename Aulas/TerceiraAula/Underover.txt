@@ -1,0 +1,2 @@
+Overfitting - Decorou os dados e não consegue generalalizar
+Underfiting - Não aprendeu nem os dados de treino

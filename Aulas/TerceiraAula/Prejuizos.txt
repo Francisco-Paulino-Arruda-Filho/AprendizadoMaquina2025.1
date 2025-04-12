@@ -1,0 +1,2 @@
+Limpeza dos dados:
+Dados de má qualidade dificultam o aprendizado, uso de algoritmos de filtragem

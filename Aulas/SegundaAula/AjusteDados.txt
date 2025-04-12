@@ -1,0 +1,2 @@
+oversampling - Gera mais dados da classe minoritaria
+undersampling - Exclui dados das classes em excesso

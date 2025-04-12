@@ -1,0 +1,19 @@
+Aprendizado offline
+
+Vantagens
+Mais rápido
+Mais certeiro
+
+Desvantagens:
+Preciso de todo o dado
+Limitação de memória
+
+Apredizado online(Apredizado incremental)
+Aumentar taxa de aprendizado para dar mais importância para dados mais recentes
+
+Vantagens
+Mais lento
+Menos Preciso
+
+Desvantagens:
+Menos limitação de poder de processamento

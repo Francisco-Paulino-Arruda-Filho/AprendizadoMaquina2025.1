@@ -1,0 +1,3 @@
+1. Primeiro um não supervisionado(Quantidade absurdamente grande de dados)
+2. Ele agrupa
+3. Fornece dados

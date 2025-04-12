@@ -1,0 +1,5 @@
+Regularizaçãoquando restringimos um modelo para simplificar e reduzir o risco de sobreajuste.
+
+K-fold - Divide o conjunto de dados de teste igualmente, tira a média dos valores obtidos na regressões lineares. 
+Poucos dados. Divide o conjunto entre treino e validação, cada modelo treinado de forma alterada.
+Menor dataset, maior k do k-fold

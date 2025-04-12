@@ -1,0 +1,64 @@
+O que é aprendizado de máquina?
+Capacidade de uma máquina aprender padrões através de dados fornecidos pelo humano
+(É a ciência (e a arte) da programação de computadores de modo que eles possam aprender com os dados.)
+
+Por que usar?
+Aplicar técnicas do AM para se aprofundar em grandes quantidades de dados pode ajudar na descoberta 
+de padrões que não eram explícitos. Isso se chama mineração de dados
+(Resolver problemas complexos demais para serem resolvidos por algoritmos normais e pessoas)
+
+É bom para:
+    Resolver problemas complexos demais para serem resolvidos por algoritmos normais e pessoas
+    Adaptabilidade 
+    Descoberta de padrões
+
+Tipos 
+    Supervisionado: Dados rotulados(Labels)
+    Semi-Supervisionado: Alguns dados são rotulados
+    Não supervisinado: Nenhum dado é rotulado
+
+Aprendizado supervisinado:
+    Prever um valor com base em outros
+
+Classificação
+    -Poucas entradas e saídas(output) possíveis de valores - Valores discretos
+Regressão
+    -Muitos valores possíveis de entrada e saída - Valores contínuos
+    -Regressão logística: consegue gerar um valor correspondente à probabilidade de pertencer a uma determinada classe.
+
+Técnicas de aprendizado supervisionado
+    K-ésimovizinho mais próximo - Número n de vizinhos mais próximos
+    •Regressão linear. 
+    •Regressão logística. 
+    •Máquinas de vetores de suporte (SVMs). 
+    •Árvores de decisão e florestas aleatórias. 
+    •Redes neurais.
+
+Aprendizado Não Supervisionado
+•Clusterização▫K-Means(ClusterizaçãoK-média) - Agrupar vizinhos semelhantes
+. ▫DBSCAN (clusterizaçãoespacial baseada em densidade de aplicações com ruído). 
+▫Análise de cluster hierárquica (HCA). 
+•Detecção de anomalias e de novidades - Valores muito distoantes
+▫One-classSVM. ▫Floresta de isolamento. •Visualização e redução da dimensionalidade 
+▫Análise de Componentes Principais (ACP). 
+▫Kernel ACP. 
+▫LLE (método de redução de dimensionalidade não linear [LocallyLinear Embedding]). 
+▫t-SNE (método de incorporação estocástica de vizinhos distribuídos [DistributedStochasticNeighborEmbedding]). 
+•Aprendizado de regras por associação ▫Apriori. ▫Eclat
+
+Aprendizado offline e online:
+    Offline:    
+        Aprendizado em batch por ciclo, usando todos os dados possíveis.
+        Mais rápido
+        Mais preciso
+        Mais difícil de treinar
+        Mais tempo para retreino
+    Online:
+        Por interação
+        Custo baixo por etapa
+        Mais lento
+        Menos preciso
+        Mais flexível
+        Alta taxa de aprendizado
+        Menos tempo para retreino
+

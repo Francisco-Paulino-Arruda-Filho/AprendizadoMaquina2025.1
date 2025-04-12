@@ -1,0 +1,1 @@
+Imagem colorida -> Cada valor de cada RGB é uma feature(Entrada de dados)
